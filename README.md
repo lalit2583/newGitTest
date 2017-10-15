@@ -1,3 +1,4 @@
 newGitTest
 ==========
 aaaaaaaaa
+bbbbbbbb
